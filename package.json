@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-nikki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find words in English dictionary with autosuggestion!",
   "main": "index.js",
   "directories": {
