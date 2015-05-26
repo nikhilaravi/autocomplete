@@ -1,0 +1,28 @@
+{
+  "name": "autocomplete-nikki",
+  "version": "1.0.0",
+  "description": "find words in English dictionary with autosuggestion!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhilaravi/autocomplete.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "english",
+    "dictionary",
+    "suggestions"
+  ],
+  "author": "nikhilaravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilaravi/autocomplete/issues"
+  },
+  "homepage": "https://github.com/nikhilaravi/autocomplete"
+}
